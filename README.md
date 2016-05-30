@@ -7,6 +7,7 @@ It doesn't enter and/or activate your licence !
 Badges
 ======
 - Tests: [![CircleCI](https://circleci.com/gh/Sabbasth/sublime3-configure.svg?style=svg)](https://circleci.com/gh/Sabbasth/sublime3-configure)
+- Code review: [![Code Issues](https://www.quantifiedcode.com/api/v1/project/94d4eb04e2824142946ead34007f08a2/badge.svg)](https://www.quantifiedcode.com/app/project/94d4eb04e2824142946ead34007f08a2)
 
 Prerequisites
 =============
