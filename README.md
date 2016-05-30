@@ -7,8 +7,8 @@ It doesn't enter and/or activate your licence !
 Prerequisites
 =============
 
-`curl`: Refer to your OS's package system.
-`Sublime Text 3`: https://www.sublimetext.com/3
+- `curl`: Refer to your OS's package system.
+- `Sublime Text 3`: https://www.sublimetext.com/3
 
 Install
 =======
@@ -24,7 +24,7 @@ make -C ~/.config/sublime-text-3/Packages/User setup
 Packages auto-install
 =====================
 
-Packages are referenced in Package Control settings file (`Package\ Control.sublime-settings`):
+Packages are referenced in the Package Control settings file (`Package\ Control.sublime-settings`):
 ```
 {
     [...]
