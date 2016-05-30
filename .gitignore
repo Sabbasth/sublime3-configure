@@ -1,0 +1,8 @@
+*
+!*.sublime-settings
+!*.sublime-keymap
+!README.md
+!Makefile
+!.editorconfig
+!circle.yml
+!.gitignore
