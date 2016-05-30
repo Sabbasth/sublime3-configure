@@ -1,8 +1,12 @@
 Sublime configure
-=============
+=================
 
 This repository setup a fresh installation of Sublime text 3.
 It doesn't enter and/or activate your licence !
+
+Badges
+======
+- Tests: [![CircleCI](https://circleci.com/gh/Sabbasth/sublime3-configure.svg?style=svg)](https://circleci.com/gh/Sabbasth/sublime3-configure)
 
 Prerequisites
 =============
